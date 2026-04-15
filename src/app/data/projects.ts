@@ -20,8 +20,7 @@ export const projects: Project[] = [
       "A set of ceramic bowls designed to hold and reveal handwritten phrases during family meals. Each bowl features text etched or painted on the interior surface, gradually becoming visible as food is consumed. The project explores how dinnerware can become a medium for intimate communication, transforming everyday eating rituals into moments of shared emotion and connection. The phrases—words of encouragement, affection, or memory—emerge slowly throughout the meal, creating quiet moments of discovery and reflection at the family table.",
     materials: "Ceramic, underglaze, hand-lettering",
     images: [
-      "https://images.unsplash.com/photo-1756363937905-d0aa09a671cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "https://images.unsplash.com/photo-1756364896972-4234d1b6113c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      ""
     ],
   },
   {
@@ -63,8 +62,7 @@ export const projects: Project[] = [
     process:
       "The stand features a turned walnut top with a recessed center to hold standard plant pots, paired with slender steel legs that provide stability while maintaining visual lightness.",
     images: [
-      "https://images.unsplash.com/photo-1756364896972-4234d1b6113c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "https://images.unsplash.com/photo-1774499646780-e8759a263253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      ""
     ],
   },
   {
