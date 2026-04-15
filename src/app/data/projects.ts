@@ -59,7 +59,7 @@ export const projects: Project[] = [
       "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/v1%20edit.JPG",
     concept:
       "Developed in collaboration with Accouter Group of Companies, this project transforms provided wooden slats into a cohesive furniture and lighting piece. The side table reconfigures the slats into a structured, vertical form, while the accompanying lamp extends the concept through hand-shaped, irregular wave-like elements. Each strip was individually cut and sanded to evoke fluid movement, paired with a paper-mâché textured centre that diffuses light to resemble the sun. Together, the pieces explore natural imagery through material manipulation, capturing the interplay of sunlight and water..",
-    materials: "Walnut, Powder-coated steel",
+    materials: "Reclaimed Wood",
     process:
       "The stand features a turned walnut top with a recessed center to hold standard plant pots, paired with slender steel legs that provide stability while maintaining visual lightness.",
     images: [
@@ -88,7 +88,7 @@ export const projects: Project[] = [
       "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/3B303DB5-540F-45B8-B685-18CFD2D8B0A2.JPG",
     concept:
       "A desk organizer that brings calm to daily work routines through thoughtful compartmentalization and clean aesthetics. Each section is sized and positioned to hold specific items, creating a designated place for everything.",
-    materials: "Maple wood, Natural wax finish",
+    materials: "PlA Prototype",
     images: [
       "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/92926CD0-6B38-4D95-AB36-609582CE37E2.JPG",
     ],
