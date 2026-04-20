@@ -17,7 +17,7 @@ export const projects: Project[] = [
     image: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5011.JPG",
     heroImage: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5011.JPG",
     concept:
-      "A set of ceramic bowls designed to hold and reveal handwritten phrases during family meals. Each bowl features text etched or painted on the interior surface, gradually becoming visible as food is consumed. The project explores how dinnerware can become a medium for intimate communication, transforming everyday eating rituals into moments of shared emotion and connection. The phrases—words of encouragement, affection, or memory—emerge slowly throughout the meal, creating quiet moments of discovery and reflection at the family table.",
+      "A set of ceramic bowls designed to hold and reveal handwritten phrases during family meals. Each bowl features text etched or painted on the interior surface, gradually becoming visible as food is consumed. The project explores how dinnerware can become a medium for intimate communication, transforming everyday eating rituals into moments of shared emotion and connection. The phrases emerge slowly throughout the meal, creating quiet moments of discovery and reflection at the family table.",
     materials: "Ceramic, underglaze, hand-lettering",
     images: [
       ""
