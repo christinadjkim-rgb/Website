@@ -12,7 +12,7 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    id: "Out of love",
+    id: "Out_of_love",
     title: "Out of Love",
     image: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5011.JPG",
     heroImage: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5011.JPG",
@@ -24,7 +24,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: "Soban set plates",
+    id: "Soban_set_plates",
     title: "Soban set plates",
     image: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5235.jpg",
     heroImage: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5235.jpg",
@@ -50,7 +50,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: "Sun and Lake",
+    id: "Sun_and_Lake",
     title: "Sun and Lake",
     subtitle: "",
     image: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/v1%20edit.JPG",
@@ -66,7 +66,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: "Okchun tray",
+    id: "Okchun_tray",
     title: "Okchun tray",
     image: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_7446%204.jpg",
     heroImage:
@@ -79,7 +79,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: "Knife Ramp",
+    id: "Knife_Ramp",
     title: "Knife Ramp",
     image: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/3B303DB5-540F-45B8-B685-18CFD2D8B0A2.JPG",
     heroImage:
