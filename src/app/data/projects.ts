@@ -43,7 +43,7 @@ export const projects: Project[] = [
     image: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5478.jpg",
     heroImage: "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/IMG_5478.jpg",
     concept:
-      "An interactive installation placed at the Charterhouse square, taking the structure of the Chapel roof, it directs the user to see the Charterhouse. It evokes curiosity to see what is beyond each eye hole and to see a glimpse of the tour and engage with users to go see the full tour at Charterhouse. side table embraces the wabi-sabi philosophy, finding beauty in natural imperfections and the passage of time. The design allows the wood's unique character—knots, grain variations, and subtle color shifts—to become integral features rather than flaws to be hidden.",
+      "An interactive installation placed at the Charterhouse square, taking the structure of the Chapel roof, it directs the user to see the Charterhouse. It evokes curiosity to see what is beyond each eye hole and to see a glimpse of the tour and engage with users to go see the full tour at Charterhouse.",
     materials: "Playwood, Veneer, ABS",
     images: [
       "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/Gemini_Generated_Image_rwxcmjrwxcmjrwxc.png",
@@ -57,7 +57,7 @@ export const projects: Project[] = [
     heroImage:
       "https://pub-433a7450f2ab4d2abb7f52787095f5f5.r2.dev/v1%20edit.JPG",
     concept:
-      "Developed in collaboration with Accouter Group of Companies, this project transforms provided wooden slats into a cohesive furniture and lighting piece. The side table reconfigures the slats into a structured, vertical form, while the accompanying lamp extends the concept through hand-shaped, irregular wave-like elements. Each strip was individually cut and sanded to evoke fluid movement, paired with a paper-mâché textured centre that diffuses light to resemble the sun. Together, the pieces explore natural imagery through material manipulation, capturing the interplay of sunlight and water..",
+      "Developed in collaboration with Accouter Group of Companies, this project transforms provided wooden slats into a cohesive furniture and lighting piece. The side table reconfigures the slats into a structured, vertical form, while the accompanying lamp extends the concept through hand-shaped, irregular wave-like elements. Each strip was individually cut and sanded to evoke fluid movement, paired with a paper-mâché textured centre that diffuses light to resemble the sun. Together, the pieces explore natural imagery through material manipulation, capturing the interplay of sunlight and water.",
     materials: "Reclaimed Wood",
     process:
       "The stand features a turned walnut top with a recessed center to hold standard plant pots, paired with slender steel legs that provide stability while maintaining visual lightness.",
