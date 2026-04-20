@@ -19,9 +19,6 @@ export const projects: Project[] = [
     concept:
       "A set of ceramic bowls designed to hold and reveal handwritten phrases during family meals. Each bowl features text etched or painted on the interior surface, gradually becoming visible as food is consumed. The project explores how dinnerware can become a medium for intimate communication, transforming everyday eating rituals into moments of shared emotion and connection. The phrases emerge slowly throughout the meal, creating quiet moments of discovery and reflection at the family table.",
     materials: "Ceramic, underglaze, hand-lettering",
-    images: [
-      ""
-    ],
   },
   {
     id: "Soban_set_plates",
@@ -61,9 +58,6 @@ export const projects: Project[] = [
     materials: "Reclaimed Wood",
     process:
       "The stand features a turned walnut top with a recessed center to hold standard plant pots, paired with slender steel legs that provide stability while maintaining visual lightness.",
-    images: [
-      ""
-    ],
   },
   {
     id: "Okchun_tray",
